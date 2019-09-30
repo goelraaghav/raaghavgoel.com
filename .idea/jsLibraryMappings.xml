@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{EasePack, TimelineMax, TweenLite, TweenMax, aos, jquery, jquery-3.2.1, jquery-latest, typeit}" />
+    <file url="PROJECT" libraries="{EasePack, TimelineMax, TweenLite, TweenMax, aos, jquery, jquery-3.2.1, jquery-latest, typeit}" />
+    <includedPredefinedLibrary name="HTTP Response Handler" />
+  </component>
+</project>
